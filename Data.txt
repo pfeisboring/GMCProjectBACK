@@ -1,0 +1,14 @@
+{
+    "name":"hamadi",
+    "email":"hamadi@gmail.com",
+    "role":"admin",
+    "password":"aaaaaa"
+}
+
+{
+     "name":"amal",
+     "email":"amal@gmail.com",
+      "role":"user",
+    "password":"bbbbbbb"
+}
+
